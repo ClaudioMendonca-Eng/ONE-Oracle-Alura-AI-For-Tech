@@ -4,11 +4,6 @@
 |:---:|
 | Estou dando os primeiros passos na **Imersão Agentes de IA**, uma fase do programa **ONE (Oracle Next Education)**, criado pela Oracle em parceria com a Alura. Em apenas 5 dias, o objetivo é construir meu primeiro agente de Inteligência Artificial aplicado a um problema real — e este repositório vai documentar essa jornada: o que eu aprendi, os desafios que resolvi e o projeto final que vou desenvolver. |
 | <div align="center"> <a href="https://cursos.alura.com.br/user/claudiomendonca" target="_blank"> <img src="https://img.shields.io/badge/Alura.com.br-16537E?style=for-the-badge&logo=alura&logoColor=white" alt="Alura" style="margin-bottom: 5px;" /> </a> </div> |
-## Começando essa jornada
-
-Estou dando os primeiros passos na **Imersão Agentes de IA**, uma fase do programa **ONE (Oracle Next Education)**, criado pela Oracle em parceria com a Alura. Em apenas 5 dias, o objetivo é construir meu primeiro agente de Inteligência Artificial aplicado a um problema real — e este repositório vai documentar essa jornada: o que eu aprendi, os desafios que resolvi e o projeto final que vou desenvolver.
-
-Não tinha conhecimento prévio aprofundado em IA antes de começar, mas reservei minha agenda para os próximos dias e estou disposto(a) a aproveitar cada aula ao máximo.
 
 ## Sobre o programa ONE
 
