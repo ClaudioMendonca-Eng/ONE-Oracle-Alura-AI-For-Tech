@@ -38,6 +38,14 @@ Ao longo da semana, os temas centrais são:
 | Live de fechamento | 19/06/2026 |
 | Aulas disponíveis até | 19/06/2026, 23h59 |
 
+## Instrutores e Instrutoras da Alura nessa imersão
+
+| Nome | Cargo |
+|---|---|
+| Eric Oliveira | Supervisor de Conteúdo na Alura Latam, especialista em Java e Spring Boot |
+| Giovani Polonio Ticianelli | Principal AI Engineer, com forte atuação em Inteligência Artificial aplicada a negócios |
+| Guilherme Lima | Tech Educator e professor na Alura e na USP |
+
 ## Masterclass: Introdução à IA Agêntica
 
 ### Participe e vá mais fundo
